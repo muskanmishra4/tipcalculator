@@ -1,0 +1,33 @@
+body{
+  background-color: #F3D7E2;
+
+}
+div{
+  border-radius: 25px;
+  margin-top: 100px;
+  background-color: #F8FAFA ;
+  width:300px;
+  height:400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 25px;
+  text-align: center;
+
+}
+h3{
+
+  background-color: #7F3C53;
+  color:  #F8FAFA;
+  text-align: center;
+
+}
+
+
+button{
+background-color: #700228;
+color:  #F8FAFA;
+height: 10%;
+width: 50%;
+
+}
